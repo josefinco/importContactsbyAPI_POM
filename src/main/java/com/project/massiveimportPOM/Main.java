@@ -19,7 +19,7 @@ public class Main {
 
 	static String wsURL = "https://epma121.nuvem365ti.com.br/VP_POM_Service/v4/contactlists/1/contacts";
 	static String user = "epadmin";
-	static String pass = "Team@365";
+	static String pass = "xxxxxxxxxxxxxxxxx";
 	static JSONObject body = new JSONObject();
 	static int timeout = 1500;
 
